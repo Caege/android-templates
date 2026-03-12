@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+**/build/
+
+# Local configuration
+local.properties
+
+# IDE files
+*.iml
+.idea/
+!.idea/codeStyles
+!.idea/inspectionProfiles
+
+# Android Studio specific
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# Kotlin
+*.kotlin_module
+
+# Gradle wrapper logs
+gradle-app.setting
+
+# Keystore files
+*.jks
+*.keystore
+
+# Firebase
+google-services.json
