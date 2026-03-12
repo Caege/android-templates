@@ -47,21 +47,51 @@ com.example.template
 
 ---
 
+
 ## Usage
 
-1. Clone the template
+Since this template is inside a larger repository, you have two options.
+
+### Option 1 — Clone the Templates Repository
 
 ```bash
-git clone https://github.com/<your-username>/compose-hilt-retrofit-template
+git clone https://github.com/Caege/android-templates.git
 ```
 
-2. Open in **Android Studio**
+Then navigate to the template:
 
-3. Rename the following:
+```bash
+android-templates/compose-hilt-retrofit-template
+```
+
+---
+
+### Option 2 — Download as ZIP
+
+1. Open the repository:
+
+```
+https://github.com/Caege/android-templates
+```
+
+2. Click **Code → Download ZIP**
+
+3. Extract the folder:
+
+```
+compose-hilt-retrofit-template
+```
+
+---
+
+### After Opening the Project
+
+Open the project in **Android Studio** and rename:
 
 * package name
 * `applicationId`
 * app name
+
 
 ---
 
